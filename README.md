@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 snip
 snip
 ##good morning##
@@ -14,3 +15,8 @@ join
 
 
 ```
+=======
+# Tutorial
+
+This is my tutorial repository.
+>>>>>>> origin/email
